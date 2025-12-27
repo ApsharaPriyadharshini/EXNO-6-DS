@@ -237,4 +237,4 @@ sns.heatmap(corr,annot=True,cmap='plasma',linewidth=0.5)
 
 
 # Result:
- Thus, the Data visualization using seaborn is executed successfully and the output is verified.
+Thus, the Data visualization using seaborn is executed successfully and the output is verified.
